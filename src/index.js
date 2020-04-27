@@ -1,4 +1,5 @@
 import my from './modules/my.js';
-
-console.log('webpack');
+import './modules/my.css';
+console.log('This is index.js');
 my();
+
